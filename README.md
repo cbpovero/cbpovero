@@ -1,4 +1,4 @@
-# casey povero's calpoly github
+# casey povero's cal poly github
 overview
 
 1. [retail analytics](https://linkmehere.com)
